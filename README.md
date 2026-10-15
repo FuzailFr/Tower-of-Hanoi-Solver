@@ -1,6 +1,6 @@
 # Tower of Hanoi Solver
 
-![Ilustrasi Tower of Hanoi](image_e60164.png)
+<img width="255" height="274" alt="image" src="https://github.com/user-attachments/assets/6bca07e9-b1cb-4bac-a138-f89022649769" />
 
 ## Deskripsi
 Repositori ini berisi implementasi penyelesaian masalah **Tower of Hanoi** menggunakan bahasa pemrograman Python. Program secara otomatis menghitung dan mencetak langkah-langkah yang diperlukan untuk memindahkan susunan disk dari tiang awal (Tiang A) ke tiang tujuan (Tiang C) sesuai dengan gambar referensi.
